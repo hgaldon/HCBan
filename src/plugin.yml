@@ -1,0 +1,5 @@
+name: HCBan
+version: 1.0.0
+author: Malarkey Tha Don
+description: If you want something done you gotta do it yourself, hardcore server plugin
+main: main.hcBanner
